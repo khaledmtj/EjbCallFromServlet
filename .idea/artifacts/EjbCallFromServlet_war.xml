@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EjbCallFromServlet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>EjbCallFromServlet</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="EjbCallFromServlet-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="EjbCallFromServlet:war exploded" />
+    </root>
+  </artifact>
+</component>
